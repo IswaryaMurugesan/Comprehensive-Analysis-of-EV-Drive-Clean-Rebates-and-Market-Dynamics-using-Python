@@ -26,6 +26,26 @@ The key objective of this project is to analyze EV rebate transaction data and i
 
 ## 📊 Dataset Overview
 
+
+Source: Official Government Open Data Portal / NYSERDA
+
+Dataset: EV Drive Clean Rebate Transactions
+
+Time Period: 2017–2026
+
+Raw Dataset: 239,278 rows × 11 columns
+
+The dataset contains EV rebate transaction information along with vehicle, manufacturer, location, rebate, GHG reduction, and petroleum reduction details.
+
+Due to the large size of the original dataset, it could not be uploaded directly to GitHub.
+
+Dataset Link:
+
+https://drive.google.com/drive/folders/12AqCaWCkcCGhf-NergYPSskr4wW4oLji?usp=sharing
+
+
+
+
 | Metric                    |   Value |
 | ------------------------- | ------: |
 | Initial Records           | 239,278 |
